@@ -6,11 +6,11 @@ export default defineNuxtConfig({
   modules: ['@nuxtjs/tailwindcss'],
   app: {
     head: {
-      title: 'Nuxt Dojo',
+      title: 'Fake Store',
       meta: [
         {
           name: 'description',
-          content: 'Nuxt JS Crash Course'
+          content: 'Nuxt Fake Store'
         },
         {
           name: 'author',
