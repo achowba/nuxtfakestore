@@ -15,7 +15,7 @@ definePageMeta({
 });
 
 useHead({
-  title: 'Nuxt Dojo Merch',
+  title: 'Nuxt Fake Store',
 });
 
 const PRODUCTS_URL = 'https://fakestoreapi.com/products';
